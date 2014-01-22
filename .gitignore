@@ -1,0 +1,8 @@
+# Ignore Latex produced files
+
+*.aux
+*.log
+
+# Ignore Output file
+
+*.pdf
